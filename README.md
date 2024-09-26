@@ -40,7 +40,7 @@ The schematic above shows the key components:
 2. The *IRF3708 MOSFET* acts as the switch in the buck converter, toggling between on and off states based on the PWM signal.
 3. The inductor and capacitor filter the output, converting the PWM signal into a stable 5V DC output from the 24V input.
 
-## Students Involved
+## Contributers
 
 Shashank Naik
 60002220111
