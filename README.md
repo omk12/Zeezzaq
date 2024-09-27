@@ -18,7 +18,7 @@ A buck converter is a DC-DC power converter that steps down voltage from its inp
 
 ## Schematic
 
-![Buck Converter Schematic](path_to_schematic_image)
+![Buck Converter Schematic](Schematic.png)
 
 The schematic above shows the key components:
 - *TLC555*: Timer IC used to generate the pulse-width modulation (PWM) signal.
